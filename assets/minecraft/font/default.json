@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/custom/mony.png",
+            "ascent": 0,
+            "height": 16,
+            "chars": ["\uE000"]
+        	}
+	]
+}
